@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programação, plicativos e games 
 -
 - 🌱 I’m currently learning ...tudo sobre software
-- 💞️ I’m looking to collaborate on ...desenvolvimento da programção
+- 💞️ I’m looking to collaborate on ...desenvolvimento de programção
 - 📫 I’m looking to collaborate on  ... sistemas
 
 <!---
